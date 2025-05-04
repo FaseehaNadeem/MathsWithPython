@@ -62,6 +62,6 @@ Explanation:
 12. Check if Remainder is Zero: If num becomes zero, it means the GCD has been found
 13. GCD Found: The GCD is set to the value of lcm.
 14. LCM Calculation: The LCM is calculated using the formula.
-15. count1,count2,count3 i used to count the iterations.
+15. count1,count2,count3 is used to count the iterations.
  
 '''
